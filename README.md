@@ -4,7 +4,7 @@ Matlab code files related to the paper 'Impacts of different density-dependent r
 
 # Description of files
 
-The provided code will help to generate the time series at different alpha (exponent of local recruitment).
+The provided code will help to generate the time series at different \alpha (exponent of local recruitment).
 
 # How to run the model
 
